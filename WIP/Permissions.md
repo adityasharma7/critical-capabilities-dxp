@@ -1,6 +1,6 @@
 # Permissions
 
-## Role-based access control (RBAC) OR Claims-based access control (CBAC) OR Permission-based access control (PBAC)
+## Role-based access control (RBAC) OR Permission-based access control (PBAC)
 
 
 
